@@ -1,5 +1,9 @@
 #-----------------------------------------------------------
 # figure 1 plot 
+# from 
+# Dynamic Mode Decomposition of Deformation Fields in Elastic and Elastic-Plastic
+# Solids 
+# European Journal of Solid Mechanics A
 # C. Hari Manoj Simha - University of Guelph - 2023
 #  import modules
 #  gavish_donoho is a module for rank truncation (function svht)

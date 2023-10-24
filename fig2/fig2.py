@@ -1,3 +1,17 @@
+#-----------------------------------------------------------
+# figure 2 plot 
+# from 
+# Dynamic Mode Decomposition of Deformation Fields in Elastic and Elastic-Plastic
+# Solids 
+# European Journal of Solid Mechanics A
+# C. Hari Manoj Simha - University of Guelph - 2023
+#  import modules
+#  gavish_donoho is a module for rank truncation (function svht)
+#  dmd_functions has functions used by this script
+#  fe_mesh is for plotting abaqus mesh
+#  connect.txt  - output from abaqus with element connectiveity list
+#  initcoord.txt - output from abaqus with initial location of nodal coordinates
+#-------------------------------------------------------------
 import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
